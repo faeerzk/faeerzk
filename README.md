@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faeerzk
 - 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning Javascript & Jqurey
+- 🌱 I’m currently learning Javascript & Jquery
 - 📫 How to reach me @faeerzk
 
 <!---
